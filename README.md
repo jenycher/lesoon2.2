@@ -41,7 +41,9 @@
 
 *Курсив*
 
-[Ссылка на Google](https://www.google.com)
+[Ссылка на wikipedia Markdown](https://commons.wikimedia.org/wiki/File:Markdown-mark.svg?uselang=ru)
+
+[Ссылка на внутренний файл head.md](./head.md)
 
 Список:
 - Пункт 1
